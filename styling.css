@@ -1,3 +1,75 @@
 body{
-    
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+border: 2px dotted red;
+}
+
+.links{
+border: 2px dotted red;
+
+}
+
+.top{
+border: 2px dotted red;
+
+}
+
+.top-left{
+ border: 2px dotted red;
+}
+
+.content{
+    border: 2px dotted red;
+}
+
+.images-container{
+    border: 2px dotted red;
+}
+.image{
+    border: 2px solid rgb(17, 12, 48);
+}
+
+.big-text{
+    border: 2px dotted red;
+    background-color: #E5E7EB;
+}
+
+.banner{
+    border: 2px dotted red;
+}
+
+footer{
+    border: 2px dotted red;
+}
+
+button, .banner{
+    background-color: #3882F6;
+}
+
+footer, header, .top{
+    background-color: #1F2937;
+}
+
+.hero-main-text{
+font-size: 46px;
+color: #F9FAF8;
+font-weight: 900;
+}
+
+.hero-sec-text, .links{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header-logo{
+    font-size: 24px;
+    color: #F9FAF8
+}
+
+.quote-text{
+    font-size: 36px;
+    font-family: Light italic;
+    color: #1F2937;
 }
